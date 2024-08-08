@@ -1,0 +1,1 @@
+import{v as e,B as t,x as a,y as s,t as n}from"./BaBuYHVu.js";const o={class:"font-600 text-6xl text-gray-700"},c="index",_={__name:"index",setup(r){return(i,l)=>(n(),e("div",o,[t(" Page: index "),a("div",null,s(c))]))}};export{_ as default};
