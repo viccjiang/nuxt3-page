@@ -1,11 +1,14 @@
 <script setup>
-const title = 'index';
+const store = useHomeStore();
+
+const title = ref('首頁');
 </script>
 
 <template>
   <div class="font-600 text-6xl text-gray-700">
-    Page: index
     <div>{{ title }}</div>
+    <div>{{ store.count }}</div>
+    <button class="border" @click="store.add">add</button>
   </div>
 </template>
 

@@ -12,6 +12,18 @@ module.exports = {
     './app.config.{js,ts}'
   ],
   theme: {
+    theme: {
+      container: {
+        center: true,
+        // padding: '2rem',
+        screens: {
+          sm: '100%',
+          md: '768px',
+          lg: '992px',
+          xl: '1320px'
+        }
+      }
+    },
     extend: {}
   },
   plugins: []

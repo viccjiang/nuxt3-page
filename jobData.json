@@ -1,0 +1,564 @@
+{
+  "id": 103891643,
+  "company": {
+    "id": 75132539,
+    "name": "連大烏石港度假村股份有限公司",
+    "brandName": null,
+    "industries": [
+      {
+        "code": 220101,
+        "name": "飯店╱旅館"
+      }
+    ],
+    "legalBenefits": [
+      {
+        "code": 1001,
+        "codeNew": 100101,
+        "parentCode": 1000,
+        "level": 3,
+        "name": "勞保",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1002,
+        "codeNew": 100102,
+        "parentCode": 1000,
+        "level": 3,
+        "name": "健保",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1311,
+        "codeNew": 100411,
+        "parentCode": 1300,
+        "level": 3,
+        "name": "就業保險",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1003,
+        "codeNew": 100103,
+        "parentCode": 1000,
+        "level": 3,
+        "name": "加班費",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1007,
+        "codeNew": 100107,
+        "parentCode": 1000,
+        "level": 3,
+        "name": "週休二日",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1201,
+        "codeNew": 100301,
+        "parentCode": 1200,
+        "level": 3,
+        "name": "陪產檢及陪產假",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1202,
+        "codeNew": 100302,
+        "parentCode": 1200,
+        "level": 3,
+        "name": "育嬰假",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1203,
+        "codeNew": 100303,
+        "parentCode": 1200,
+        "level": 3,
+        "name": "生理假",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1204,
+        "codeNew": 100304,
+        "parentCode": 1200,
+        "level": 3,
+        "name": "特別休假",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1207,
+        "codeNew": 100307,
+        "parentCode": 1200,
+        "level": 3,
+        "name": "產假",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1208,
+        "codeNew": 100308,
+        "parentCode": 1200,
+        "level": 3,
+        "name": "產檢假",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1210,
+        "codeNew": 100310,
+        "parentCode": 1200,
+        "level": 3,
+        "name": "安胎假",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1211,
+        "codeNew": 100311,
+        "parentCode": 1200,
+        "level": 3,
+        "name": "家庭照顧假",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1304,
+        "codeNew": 100404,
+        "parentCode": 1300,
+        "level": 3,
+        "name": "員工體檢",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1308,
+        "codeNew": 100408,
+        "parentCode": 1300,
+        "level": 3,
+        "name": "勞退提繳金",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1309,
+        "codeNew": 100409,
+        "parentCode": 1300,
+        "level": 3,
+        "name": "職災保險",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1701,
+        "codeNew": 100801,
+        "parentCode": 1700,
+        "level": 3,
+        "name": "育嬰室",
+        "description": null,
+        "children": []
+      },
+      {
+        "code": 1702,
+        "codeNew": 100802,
+        "parentCode": 1700,
+        "level": 3,
+        "name": "哺乳室",
+        "description": null,
+        "children": []
+      }
+    ],
+    "benefits": [
+      {
+        "code": 1100,
+        "codeNew": 100200,
+        "parentCode": null,
+        "level": 2,
+        "name": "獎金類",
+        "description": null,
+        "children": [
+          {
+            "code": 1105,
+            "codeNew": 100205,
+            "parentCode": 1100,
+            "level": 3,
+            "name": "年終獎金",
+            "description": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": 1300,
+        "codeNew": 100400,
+        "parentCode": null,
+        "level": 2,
+        "name": "保險類",
+        "description": null,
+        "children": [
+          {
+            "code": 1301,
+            "codeNew": 100401,
+            "parentCode": 1300,
+            "level": 3,
+            "name": "意外險",
+            "description": null,
+            "children": []
+          },
+          {
+            "code": 1303,
+            "codeNew": 100403,
+            "parentCode": 1300,
+            "level": 3,
+            "name": "員工團保",
+            "description": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": 1400,
+        "codeNew": 100500,
+        "parentCode": null,
+        "level": 2,
+        "name": "餐飲類",
+        "description": null,
+        "children": [
+          {
+            "code": 1403,
+            "codeNew": 100503,
+            "parentCode": 1400,
+            "level": 3,
+            "name": "免費供餐",
+            "description": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": 1500,
+        "codeNew": 100600,
+        "parentCode": null,
+        "level": 2,
+        "name": "居住類",
+        "description": null,
+        "children": [
+          {
+            "code": 1501,
+            "codeNew": 100601,
+            "parentCode": 1500,
+            "level": 3,
+            "name": "員工宿舍",
+            "description": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": 1600,
+        "codeNew": 100700,
+        "parentCode": null,
+        "level": 2,
+        "name": "交通類",
+        "description": null,
+        "children": [
+          {
+            "code": 1604,
+            "codeNew": 100704,
+            "parentCode": 1600,
+            "level": 3,
+            "name": "員工停車位或停車補助",
+            "description": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": 1700,
+        "codeNew": 100800,
+        "parentCode": null,
+        "level": 2,
+        "name": "設備類",
+        "description": null,
+        "children": [
+          {
+            "code": 1707,
+            "codeNew": 100807,
+            "parentCode": 1700,
+            "level": 3,
+            "name": "員工餐廳",
+            "description": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": 1800,
+        "codeNew": 100900,
+        "parentCode": null,
+        "level": 2,
+        "name": "娛樂",
+        "description": null,
+        "children": [
+          {
+            "code": 1807,
+            "codeNew": 100907,
+            "parentCode": 1800,
+            "level": 3,
+            "name": "尾牙",
+            "description": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": -2,
+        "codeNew": -2,
+        "parentCode": null,
+        "level": 2,
+        "name": "其它類",
+        "description": null,
+        "children": [
+          {
+            "code": 1004,
+            "codeNew": 100104,
+            "parentCode": 1000,
+            "level": 3,
+            "name": "需穿著員工制服",
+            "description": null,
+            "children": []
+          },
+          {
+            "code": 1005,
+            "codeNew": 100105,
+            "parentCode": 1000,
+            "level": 3,
+            "name": "員工在職教育訓練",
+            "description": null,
+            "children": []
+          },
+          {
+            "code": 1006,
+            "codeNew": 100106,
+            "parentCode": 1000,
+            "level": 3,
+            "name": "良好升遷制度",
+            "description": null,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "otherBenefits": "★法定義務保障\n1.勞保\n2.健保\n3.勞工退休提撥6％\n4.各種休假制度依勞動基準法給予\n\n★制度類\n1.團體意外保險\n2.年終獎金\n3.員工職前/在職教育訓練\n4.員工介紹獎金\n5.在職員工年度健康體檢\n6.健康福利：醫師護理師臨場服務\n★其他類\n1.免費提供伙食\n2.免費提供制服\n3.飯店餐廳用餐員工優惠價\n4.飯店住房員工優惠價\n5.提供外縣市同仁員工宿舍\n6.跨部門轉調學習第二或第三專長的培育機制\n7.員工更衣盥洗室\n\n(以上福利制度-適用正職員工)",
+    "logoLink": null,
+    "logoConfirmed": true
+  },
+  "description": {
+    "jobPosition": "餐廳外場副理【披蕯廳-OA Pizza】",
+    "positionCategories": [
+      {
+        "code": 270213,
+        "name": "餐飲服務人員"
+      },
+      {
+        "code": 120303,
+        "name": "客服人員"
+      },
+      {
+        "code": 270301,
+        "name": "飯店／旅館主管"
+      }
+    ],
+    "jobTypes": [
+      "fullTime"
+    ],
+    "partTimeTypes": [],
+    "internship": [
+      "normal"
+    ],
+    "headCounts": {
+      "required": {
+        "type": "numbers",
+        "value": 1
+      },
+      "maximum": null
+    },
+    "salary": {
+      "type": "monthly",
+      "from": 42000,
+      "to": null,
+      "hideSalary": true,
+      "isStatingSalary": true
+    },
+    "shiftType": [
+      "day",
+      "evening",
+      "weekend",
+      "rotating"
+    ],
+    "shiftDescription": null,
+    "jobStartPeriod": "noLimit",
+    "jobStartDate": null,
+    "responsibilities": "1.營運現場負責接待、引導、餐點介紹及點餐、員工管理，具餐飲服務及調控經驗、成本管控、盤點及相關行政能力。 \n2.顧客關係維護及部門溝通協調、處理突發事件及顧客服務品質之維持。\n3.業務推廣之事務、營運環境及設備維護、人事協調(臨時工管控)。\n4.協助結帳事項、熟悉營運現場SOP、進貨及存貨品管控\n5.具教育訓練的規劃與落實能力、溝通協調能力佳、執行力佳.\n6 .具團隊精神、積極主動、有責任感、擅與人互動、抗壓性佳、其他主管交辦事項\n7. 具餐飲服務經驗2年以上尤佳.\n\n(固定或變動薪資因個人資歷或績效而異)",
+    "managementLevel": "none",
+    "vacationPolicy": [],
+    "wfhNote": null,
+    "benefits": [
+      null
+    ],
+    "otherBenefits": [],
+    "vision": null,
+    "achievements": null,
+    "replyInDays": null
+  },
+  "location": {
+    "cityCode": null,
+    "zipCode": null,
+    "address": null,
+    "workCity": {
+      "code": 100402,
+      "name": "頭城鎮"
+    },
+    "workCityAddress": "烏石港路300、301號",
+    "workLocationLng": 121.8398056,
+    "workLocationLat": 24.8713384,
+    "mrt": null,
+    "mrtDistance": null,
+    "locatedPark": {
+      "key": null
+    }
+  },
+  "requirement": {
+    "workAbilities": [],
+    "certifications": [],
+    "computerSkills": [
+      {
+        "code": 1002,
+        "name": "Excel"
+      },
+      {
+        "code": 1004,
+        "name": "Outlook"
+      },
+      {
+        "code": 1003,
+        "name": "PowerPoint"
+      },
+      {
+        "code": 1001,
+        "name": "Word"
+      }
+    ],
+    "experience": {
+      "type": "atLeastYears",
+      "value": 2
+    },
+    "education": {
+      "qualifications": [
+        "highSchool",
+        "juniorCollege",
+        "university",
+        "master"
+      ],
+      "above": false
+    },
+    "majors": [],
+    "languages": [],
+    "dialects": [],
+    "englishWpm": null,
+    "chineseWpm": 50,
+    "identityType": [
+      {
+        "key": 16,
+        "name": "二度就業",
+        "seq": 50
+      },
+      {
+        "key": 32,
+        "name": "原住民",
+        "seq": 60
+      },
+      {
+        "key": 16384,
+        "name": "外籍人士",
+        "seq": 140
+      }
+    ],
+    "marriageLimit": "na",
+    "ageFrom": null,
+    "ageTo": null,
+    "ownVehicles": [],
+    "drivingLicenses": [],
+    "disabilities": [],
+    "disabilityIdentification": false,
+    "additional": "擅長工具\n德安飯店餐飲管理系統、德安資訊ERP\n\n工作技能\n櫃檯門市接待與需求服務、產品介紹及解說銷售、門市餐飲管理、食物製前準備、廚房器具使用維護\n\n其他條件\n1.具有工作熱忱，有抗壓性，穩定性高者，歡迎加入成為我們的工作夥伴。\n2.本公司有完整的升遷制度，每半年辦理一次晉升、調薪考核機制，亦可依照個人意願跨部門轉調學習第二或第三專長，培育更優秀人才。\n3.具餐飲服務經驗2年以上尤佳."
+  },
+  "application": {
+    "contactMethods": [
+      "other",
+      "onlineApplication"
+    ],
+    "onlineApplicationNotifyMethod": "email",
+    "otherContactMethod": "1.於投遞履歷表後7~14個工作天內，將進行資料篩選及審核，如有合適職務，將以電話或E-Mail聯絡相關訊息。不合適者，將不另行通知並存入人才庫中，待有適當之職缺時再聯絡。\n2.依個人資料保護法規定及本公司個人資料保護管理政策要求，在您提供個人資料前，本公司有義務告知下列事項：\n(1)蒐集目的：為辦理人才招募聘用。\n(2)個人資料類別：姓名、通訊地址、電子信箱、連絡電話、手機號碼、相片、學歷、工作經驗等。",
+    "interviewDays": [],
+    "interviewNoteFile": null,
+    "interviewLocationLng": null,
+    "interviewLocationLat": null,
+    "mailCity": null,
+    "mailCityAddress": null,
+    "submissionMethod": "emailHtml"
+  },
+  "contact": {
+    "contactPerson": "人力資源部",
+    "telephoneNumber": null,
+    "phoneNumber": null,
+    "fax": null,
+    "emails": [
+      "hr@oahotels.com.tw",
+      "jeno.ho@oahotels.com.tw",
+      "kuangyi.pan@oahotels.com.tw",
+      "jahan.lin@oahotels.com.tw"
+    ]
+  },
+  "status": {
+    "isOpen": true,
+    "expiredAt": null,
+    "postedAt": "2024-06-07T00:00:00.000Z",
+    "startedAt": "2023-07-07T10:40:53.503Z",
+    "endedAt": "2023-07-07T10:40:53.503Z",
+    "isUrgent": false,
+    "numberOfApplicants": 0
+  },
+  "misc": {
+    "notifyFeatures": [
+      "talentNameFirst"
+    ],
+    "recentApplicantsCount": 0,
+    "views": 0,
+    "flags": [
+      "noCv"
+    ],
+    "mailKinds": [],
+    "matchItem": [
+      "isStatingSalary"
+    ],
+    "reviewStatus": {
+      "reviewed": true,
+      "lastReviewedJobRoles": [
+        "fullTime"
+      ]
+    },
+    "sort": 255
+  },
+  "isValid": true,
+  "createdAt": "2023-07-07T10:40:53.503Z",
+  "updatedAt": "2024-08-13T00:10:00.520Z",
+  "lastUpdatedAt": "2024-08-13T01:17:04.367Z",
+  "updatedBy": 21667174
+} 
