@@ -1,0 +1,1 @@
+import{_ as t,t as o,v as n,N as r,z as a,x as c}from"./BFH_Pyy1.js";const l={};function d(e,s){return o(),n("div",null,"Component: Home")}const f=t(l,[["render",d]]),u={},i=c("header",{class:"text-6xl"},"layout 內容",-1),m=c("footer",null,"456",-1);function p(e,s){const _=f;return o(),n("div",null,[i,r(e.$slots,"default"),a(_),m])}const h=t(u,[["render",p]]);export{h as default};
