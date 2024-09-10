@@ -62,6 +62,7 @@ onBeforeUnmount(() => {
 });
 
 const scrollToSection = (sectionId) => {
+  updateHeaderHeight(); // 滾動前確保獲取最新的 header 高度
   scrollToElementById(sectionId, headerHeight.value); // 使用最新的 header 高度滾動
 };
 </script>
