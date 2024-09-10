@@ -6,7 +6,8 @@
       class="sticky top-0 z-10 mx-auto flex items-center justify-center bg-black shadow-md transition-all duration-300"
       :class="{
         'h-20 w-full': isScrolledDown,
-        'container h-16': !isScrolledDown
+        'container h-16': !isScrolledDown,
+        'opacity-50': isScrolledDown
       }"
     >
       <nav class="space-x-4">
@@ -43,7 +44,7 @@ const updateHeaderHeight = () => {
 
 const onScroll = () => {
   // 如果滾動超過 100px，就認為是向下滾動，改變 header 的大小
-  if (window.scrollY > 100) {
+  if (window.scrollY > 64) {
     isScrolledDown.value = true;
   } else {
     isScrolledDown.value = false;
