@@ -6,7 +6,7 @@
     <slot />
 
     <HomeView />
-    <footer>456</footer>
+    <footer class="bg-black text-6xl">footer</footer>
   </div>
 </template>
 

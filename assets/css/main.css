@@ -9,6 +9,18 @@
   .section {
     @apply mb-8 rounded-none bg-white p-6 sm:rounded-[16px] md:p-6 lg:p-12;
   }
+  /* 使用 Tailwind CSS */
+  .section {
+    @apply flex h-[600px] items-center justify-center text-2xl font-bold;
+  }
+
+  .btn {
+    @apply rounded bg-blue-500 px-4 py-2 text-white transition-colors duration-300 ease-in-out;
+  }
+
+  .btn:hover {
+    @apply bg-blue-700;
+  }
 }
 
 .fade-enter-active,
