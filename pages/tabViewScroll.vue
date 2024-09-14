@@ -3,48 +3,49 @@
     <!-- 初始内容 -->
     <div>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore molestias, doloribus
-        illum qui repellendus sit cumque. Reprehenderit temporibus animi consequuntur beatae
-        architecto fugiat inventore error excepturi maxime quidem quo sequi ipsum et, numquam nobis
-        repudiandae voluptatibus nihil doloribus suscipit. Tempore voluptatibus velit hic rerum
-        porro explicabo nobis quaerat beatae quod ab repudiandae quia fuga obcaecati quos a atque
-        nam, quibusdam magni quas delectus in inventore iure? Veniam sed nisi labore quas in atque
-        quis nostrum corporis distinctio, sunt maiores praesentium harum, cum tempora molestias at
-        eum! Commodi reprehenderit id harum laudantium autem, voluptatibus recusandae magni
-        possimus? Ratione beatae, voluptates aperiam id non molestiae velit? Commodi nemo velit,
-        magnam voluptates dolor vel porro cum, qui vitae ab maxime incidunt tempore ea, voluptas
-        consequuntur quo? Facilis soluta possimus quas sapiente sequi dignissimos saepe vel, fugit
-        ut qui, facere amet debitis repellat mollitia! Quod aliquam iusto soluta, corrupti saepe
-        pariatur quis placeat alias, nulla, hic ab molestiae reprehenderit? Voluptate, dolorum rem!
-        Beatae sit sequi reprehenderit ipsam consequatur sapiente laudantium ipsa vitae doloremque
-        modi cumque, alias inventore sed dolor qui sint ipsum et eveniet, autem quis. Quibusdam
-        consequatur, sint quaerat magni aperiam porro non est vel nam voluptates perspiciatis odio
-        in inventore itaque debitis minus dicta. Quam aperiam, ipsa temporibus minus voluptas
-        sapiente numquam assumenda officiis? Autem itaque consectetur maiores corporis iste unde
-        quo, laboriosam, porro reiciendis molestiae accusantium sequi vitae dignissimos quod
-        voluptate doloremque rem voluptas eos neque, nobis velit sapiente tempore repellendus
-        praesentium. Mollitia nesciunt officiis aliquam veniam iste voluptatem ducimus? Nobis iste
-        sint eius earum eum praesentium deserunt voluptates beatae rem aspernatur et quisquam ex
-        impedit esse possimus optio consequuntur, dicta autem odit. Enim ratione eos quasi
-        blanditiis quos. Quos dignissimos dolorum non repellendus. Tenetur delectus animi commodi,
-        et impedit odio enim iure ad pariatur quaerat itaque veritatis error minima veniam
-        accusantium? Beatae, et eius! Eos illo ea, architecto atque voluptate natus eveniet quos
-        officia alias numquam provident nobis deserunt unde ab, sequi vero nulla suscipit molestiae
-        ullam quasi nisi ratione modi commodi. Eius obcaecati eos laborum, esse dolor architecto
-        officia accusantium magni rem nobis, repellat saepe voluptates quas mollitia fugit sed sunt,
-        suscipit numquam ut earum explicabo et laboriosam nulla. Et rerum beatae sequi sapiente
-        saepe mollitia eaque quidem maiores obcaecati. Ut eaque qui corporis itaque vel magni ea,
-        veritatis reiciendis mollitia blanditiis vitae voluptas assumenda sit atque unde magnam
-        sapiente accusantium distinctio amet et laboriosam. Optio quasi quisquam rem voluptates quae
-        ut rerum dignissimos provident vero eos vel quam adipisci, quo quod hic. Laborum consequatur
-        repudiandae quaerat doloribus quisquam? Officiis eveniet distinctio natus quas voluptates
-        libero eius, mollitia dolore. Error et accusamus dicta? Nobis iusto neque sit unde quas
-        molestias expedita magni impedit praesentium beatae placeat repellat, sed maiores suscipit!
-        Quasi quidem cupiditate maiores, fugit omnis, laudantium eaque perspiciatis quia ullam
-        labore asperiores nihil saepe aut nulla doloremque consequatur aspernatur consequuntur
-        architecto illum nemo alias voluptas! Eos nulla perspiciatis excepturi nemo accusantium
-        saepe quam quaerat repudiandae deleniti similique. Fugit beatae quo eaque exercitationem
-        dicta vitae cumque itaque necessitatibus distinctio.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor perspiciatis iure nobis sunt
+        expedita beatae suscipit labore perferendis... Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Vel aut ab quis quibusdam ipsa libero porro soluta, placeat veritatis
+        voluptatum, impedit repudiandae odit dolor nulla quod. Incidunt perferendis nulla deleniti
+        excepturi quae dicta quia minus distinctio tempore omnis tenetur cumque earum molestias,
+        quaerat odio temporibus optio! Voluptatum, ad dicta aliquam id odio, nemo cumque at iste, ex
+        error porro sapiente cupiditate obcaecati inventore et voluptatem eius nesciunt sunt rerum
+        temporibus tenetur unde esse? Quae, et pariatur at blanditiis, eveniet quas aut eius sed
+        quam maxime aspernatur alias ad iste nostrum quaerat sint? Voluptates quae aliquid
+        consectetur quas asperiores qui dolor dolores, nobis totam libero quod tempora voluptatum
+        consequatur accusantium! Obcaecati ipsa repellat a distinctio nam saepe dolore maiores,
+        similique exercitationem numquam velit cupiditate dolorum dignissimos quibusdam minus eius
+        magni id quos tempore omnis quisquam. Quo ullam asperiores beatae ea accusamus reiciendis
+        praesentium eveniet facilis! Possimus alias placeat nam officiis, consectetur modi sint
+        soluta vitae omnis perferendis dolorem quas molestiae, quisquam totam iste facere obcaecati
+        excepturi iusto repudiandae amet nemo ullam et! Maxime, molestiae! Voluptas consequatur
+        quasi accusantium voluptatum, facere velit molestiae unde laudantium iusto. Neque, laborum.
+        Non laborum ducimus aperiam enim obcaecati quod iste molestias, rerum et fuga. Consequatur
+        voluptatibus aspernatur aut quidem quisquam corrupti esse fugiat distinctio earum incidunt
+        rerum dolores explicabo, dolor assumenda? Eum, ad! Temporibus iusto assumenda consectetur
+        minima quasi ea magni eius unde itaque, illum nihil numquam molestiae quis ullam
+        reprehenderit molestias! Explicabo impedit in sit error fugiat inventore, temporibus
+        recusandae eaque sunt ab illo incidunt, ex quasi? Quas tenetur nam ut fugiat suscipit
+        facere, commodi accusamus dignissimos qui esse ipsa consectetur nihil alias delectus tempore
+        vel minus ipsum pariatur itaque. Laudantium consequatur minima odit itaque, sunt sint nam
+        numquam pariatur aliquid voluptatem laboriosam ipsa maxime et facilis, quasi repudiandae,
+        nobis nulla unde quaerat suscipit tempora! Fugit numquam porro magnam eos eum vel id
+        eligendi consectetur commodi. Minima maiores iste numquam ipsam, autem voluptates deserunt
+        recusandae adipisci placeat excepturi totam minus laborum aperiam. Ut totam deserunt eaque
+        a. Minima impedit amet provident soluta distinctio ducimus dolore odio incidunt molestiae,
+        aliquam accusantium culpa tempore accusamus quisquam id laboriosam eveniet ullam itaque
+        assumenda quod? Velit fugit cumque in numquam consequatur eligendi recusandae itaque iusto
+        ad quasi expedita, nisi doloribus dignissimos ab nihil perspiciatis sed earum assumenda
+        iure? Sapiente, quasi repellat placeat quos vel officia, et sint odit laborum ullam magnam,
+        ex accusamus dignissimos eius fugiat sunt eos enim vero quisquam rem libero? Alias deserunt
+        facilis asperiores aspernatur! Qui, repellat magni illum ratione ullam quam culpa voluptas
+        quasi, delectus recusandae labore eligendi? Quasi facilis officia voluptates aliquid, minima
+        dolore aut repellendus? Quos dolore quasi praesentium ipsam omnis dolor, beatae dolorem
+        autem illum? Possimus accusantium et sunt, ad, temporibus dolorum officia libero labore iure
+        quasi cumque adipisci, numquam quas molestias doloremque consectetur eum nam! Omnis
+        reiciendis itaque iusto cumque nemo sequi officiis eius adipisci qui modi consectetur
+        mollitia iste accusantium beatae id nihil labore, alias consequuntur rerum! Nesciunt ut sunt
+        eum similique provident voluptatem vitae, placeat, officiis fugit accusamus nam.
       </p>
       <!-- 更多内容 -->
     </div>
@@ -53,14 +54,13 @@
     <nav class="sticky top-0 z-10 w-full bg-white shadow">
       <ul class="flex justify-around">
         <li v-for="section in sections" :key="section.id">
-          <a
-            :href="'#' + section.id"
+          <NuxtLink
             :class="{ 'font-bold text-blue-500': activeSection === section.id }"
-            class="block py-4"
+            class="block cursor-pointer py-4"
             @click.prevent="scrollToSection(section.id)"
           >
             {{ section.title }}
-          </a>
+          </NuxtLink>
         </li>
       </ul>
     </nav>
@@ -71,6 +71,7 @@
         v-for="section in sections"
         :id="section.id"
         :key="section.id"
+        ref="sectionRefs"
         class="min-h-screen scroll-mt-16 px-4"
       >
         <h2 class="mb-4 text-3xl">{{ section.title }}</h2>
@@ -82,7 +83,7 @@
 </template>
 
 <script setup>
-import { ref, onMounted, onBeforeUnmount } from 'vue';
+import { ref, onMounted, onBeforeUnmount, nextTick } from 'vue';
 
 const sections = ref([
   { id: 'section1', title: '区块一' },
@@ -91,11 +92,14 @@ const sections = ref([
 ]);
 
 const activeSection = ref('');
+const sectionRefs = ref([]);
 let observer = null;
 
 const scrollToSection = (id) => {
-  const element = document.getElementById(id);
-  element.scrollIntoView({ behavior: 'smooth' });
+  const element = sectionRefs.value.find((el) => el.id === id);
+  if (element) {
+    element.scrollIntoView({ behavior: 'smooth' });
+  }
 };
 
 const handleIntersect = (entries) => {
@@ -106,7 +110,9 @@ const handleIntersect = (entries) => {
   });
 };
 
-onMounted(() => {
+const initializeObserver = async () => {
+  await nextTick(); // 确保 DOM 已更新
+
   const options = {
     root: null,
     rootMargin: '0px',
@@ -114,12 +120,18 @@ onMounted(() => {
   };
 
   observer = new IntersectionObserver(handleIntersect, options);
-  sections.value.forEach((section) => {
-    const element = document.getElementById(section.id);
-    if (element) {
-      observer.observe(element);
-    }
-  });
+
+  if (sectionRefs.value) {
+    sectionRefs.value.forEach((element) => {
+      if (element) {
+        observer.observe(element);
+      }
+    });
+  }
+};
+
+onMounted(() => {
+  initializeObserver();
 });
 
 onBeforeUnmount(() => {
