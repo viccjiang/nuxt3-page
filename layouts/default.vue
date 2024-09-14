@@ -2,7 +2,6 @@
 
 <template>
   <div>
-    <header class="text-6xl">layout 內容</header>
     <slot />
 
     <HomeView />
