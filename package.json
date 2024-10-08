@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@pinia/nuxt": "^0.5.3",
+    "@stefanobartoletti/nuxt-social-share": "^1.1.2",
     "axios": "^1.7.7",
     "dayjs-nuxt": "^2.1.11",
     "nuxt": "^3.12.4",
