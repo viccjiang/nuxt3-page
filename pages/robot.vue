@@ -28,32 +28,32 @@ const services = [
   {
     id: 1,
     name: 'Q&A',
-    url: 'https://www.1111.com.tw/QA/Index',
+    url: '',
     icon: '/path/to/question_icon.svg'
   },
-  { id: 2, name: 'LINE@', url: 'https://page.line.me/', icon: '/path/to/line_icon.svg' },
+  { id: 2, name: 'LINE@', url: '', icon: '' },
   {
     id: 3,
     name: '意见反馈',
-    url: 'https://www.1111.com.tw/help/service.asp',
+    url: 'h',
     icon: '/path/to/message_icon.svg'
   },
   {
     id: 4,
     name: '合作提案',
-    url: 'https://www.1111.com.tw/help/alliance.asp',
+    url: '',
     icon: '/path/to/pen_icon.svg'
   },
   {
     id: 5,
     name: '在线客服',
-    url: 'https://25.cami.yesing.com/tw/service/MTExMWpvYmJhbms',
+    url: '',
     icon: '/path/to/earphone_icon.svg'
   },
   {
     id: 6,
     name: '找工作APP',
-    url: 'https://www.1111.com.tw/1111app/',
+    url: '',
     icon: '/path/to/qrcode_icon.svg'
   }
 ];
